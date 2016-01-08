@@ -21,13 +21,14 @@ body {
 .jumbotron .btn {
   position: center;
 }
-.col-md-4 img {
-  width: 130px;
-  height: 130px%;
-  float:left;
-
+.col-md-6 img {
+  width: 100px;
+  height: 100px;
+  float: left;
 }
 
+
+}
 .col-md-4 h3 {
   text-align: center;
 }
@@ -42,6 +43,8 @@ body {
 
 .jumbotron {
   margin-top: 5%;
+  position: relative;
+  width: 100%;
 }
 
 .brdrd {
@@ -51,4 +54,10 @@ body {
 
 .jumbotron img {
   width: 100%
+}
+
+.col-md-4 img {
+  width:130px;
+  height:130px;
+  float: none;
 }
