@@ -22,8 +22,8 @@ body {
   position: center;
 }
 .col-md-6 img {
-  width: 100px;
-  height: 100px;
+  width: 160px;
+  height: 160px;
   float: left;
 }
 
@@ -32,6 +32,8 @@ body {
 .col-md-4 h3 {
   text-align: center;
 }
+
+.col-md-6
 
 .col-md-4 {
   padding-left: 2%;
